@@ -1,0 +1,233 @@
+{
+  "version": 1,
+  "migrationCompleted": true,
+  "recent": [
+    {
+      "entryId": "3249d92f-34ad-455e-ba9a-b7f18b8a2a99",
+      "command": "/bp",
+      "executedAt": 1785973506774,
+      "serverIdentifier": "server-1c684fb3-8349-392f-ab40-04849c6d8794"
+    },
+    {
+      "entryId": "ca2d4ce6-a3e4-4c8e-af16-1921807625d9",
+      "command": "/elytra",
+      "executedAt": 1785973423336,
+      "serverIdentifier": "server-1c684fb3-8349-392f-ab40-04849c6d8794"
+    },
+    {
+      "entryId": "bd44c2f0-bde4-4b12-883a-4c37a5eff87a",
+      "command": "/bpview KairoTW0916",
+      "executedAt": 1785973246707,
+      "serverIdentifier": "server-1c684fb3-8349-392f-ab40-04849c6d8794"
+    },
+    {
+      "entryId": "94481de8-5a48-47a9-aacb-5e4de89c19f5",
+      "command": "/6",
+      "executedAt": 1785973228500,
+      "serverIdentifier": "server-1c684fb3-8349-392f-ab40-04849c6d8794"
+    },
+    {
+      "entryId": "8c731715-f63d-49aa-939e-82c885bdac30",
+      "command": "/co i",
+      "executedAt": 1785971094217,
+      "serverIdentifier": "server-1c684fb3-8349-392f-ab40-04849c6d8794"
+    },
+    {
+      "entryId": "09fd8ce2-59fb-4592-a5ed-7c3565ed4e60",
+      "command": "/bpview Leamon0501",
+      "executedAt": 1785945048640,
+      "serverIdentifier": "server-1c684fb3-8349-392f-ab40-04849c6d8794"
+    },
+    {
+      "entryId": "80b0dda4-fe69-44cd-98f5-4762a2f38056",
+      "command": "/bpview",
+      "executedAt": 1785945040492,
+      "serverIdentifier": "server-1c684fb3-8349-392f-ab40-04849c6d8794"
+    },
+    {
+      "entryId": "9c531130-1ea1-450a-8be7-2bbbdaf70d40",
+      "command": "/sit",
+      "executedAt": 1785944262771,
+      "serverIdentifier": "server-1c684fb3-8349-392f-ab40-04849c6d8794"
+    },
+    {
+      "entryId": "5f7fa68d-a836-4b0a-b585-b2b25099b725",
+      "command": "/res tp 玻璃大平台",
+      "executedAt": 1785935817974,
+      "serverIdentifier": "server-abb646c4-7158-3d88-bfd0-bc7b24c32633"
+    },
+    {
+      "entryId": "2136d09e-f57b-4761-8496-703709539f8e",
+      "command": "/res tp JiZiTa_1",
+      "executedAt": 1785935481720,
+      "serverIdentifier": "server-abb646c4-7158-3d88-bfd0-bc7b24c32633"
+    },
+    {
+      "entryId": "246dab45-099d-4355-bb6c-e29ff389f975",
+      "command": "/res tp polarbear 北七熊生怪塔",
+      "executedAt": 1785934836955,
+      "serverIdentifier": "server-abb646c4-7158-3d88-bfd0-bc7b24c32633"
+    },
+    {
+      "entryId": "b9f4f562-8b9e-4387-bf78-bc40699bd5db",
+      "command": "/rtp",
+      "executedAt": 1785934720435,
+      "serverIdentifier": "server-abb646c4-7158-3d88-bfd0-bc7b24c32633"
+    },
+    {
+      "entryId": "71a55e4c-de81-4a21-b114-a9b441f242c6",
+      "command": "/res pset",
+      "executedAt": 1785929384507,
+      "serverIdentifier": "server-abb646c4-7158-3d88-bfd0-bc7b24c32633"
+    },
+    {
+      "entryId": "a8873b1d-bda2-4aeb-b40a-433bbfac1eb0",
+      "command": "/res set",
+      "executedAt": 1785929243957,
+      "serverIdentifier": "server-abb646c4-7158-3d88-bfd0-bc7b24c32633"
+    },
+    {
+      "entryId": "e3a7bb78-68fc-46e9-a678-b9ad4a71b8d2",
+      "command": "/res tp 320熔炉",
+      "executedAt": 1785929237961,
+      "serverIdentifier": "server-abb646c4-7158-3d88-bfd0-bc7b24c32633"
+    },
+    {
+      "entryId": "b0154214-8564-41cf-b091-a181f6dc082c",
+      "command": "/top",
+      "executedAt": 1785929119340,
+      "serverIdentifier": "server-abb646c4-7158-3d88-bfd0-bc7b24c32633"
+    },
+    {
+      "entryId": "a1e0908c-0c9a-4eb6-a63b-0d5d12c8061b",
+      "command": "/res create 320熔炉",
+      "executedAt": 1785929054415,
+      "serverIdentifier": "server-abb646c4-7158-3d88-bfd0-bc7b24c32633"
+    },
+    {
+      "entryId": "4604d242-41de-4d97-ac42-d3a96eb387a3",
+      "command": "/wb",
+      "executedAt": 1785928881956,
+      "serverIdentifier": "server-abb646c4-7158-3d88-bfd0-bc7b24c32633"
+    },
+    {
+      "entryId": "942cd8f6-1ce5-429a-b6a5-4c0faa825152",
+      "command": "/back",
+      "executedAt": 1785928813283,
+      "serverIdentifier": "server-abb646c4-7158-3d88-bfd0-bc7b24c32633"
+    },
+    {
+      "entryId": "777ae80a-dc07-4e08-84c1-4d15f38b31ea",
+      "command": "/res tp 為了加入居民牆而造了一個城堡_嘻嘻",
+      "executedAt": 1785928496630,
+      "serverIdentifier": "server-abb646c4-7158-3d88-bfd0-bc7b24c32633"
+    },
+    {
+      "entryId": "4875db1b-bbc7-4333-a082-45d8fa06dc65",
+      "command": "/pw 320",
+      "executedAt": 1785928467517,
+      "serverIdentifier": "server-abb646c4-7158-3d88-bfd0-bc7b24c32633"
+    },
+    {
+      "entryId": "14759870-c6c2-4fd4-9a0e-b4dbc263e4a5",
+      "command": "/pw",
+      "executedAt": 1785928442070,
+      "serverIdentifier": "server-abb646c4-7158-3d88-bfd0-bc7b24c32633"
+    },
+    {
+      "entryId": "ef037d3c-19a7-4973-b44e-7be5186765a6",
+      "command": "/sbt1",
+      "executedAt": 1785926772467,
+      "serverIdentifier": "server-abb646c4-7158-3d88-bfd0-bc7b24c32633"
+    },
+    {
+      "entryId": "600ccd4e-66ce-4953-a863-4269d43f98a7",
+      "command": "/tshop",
+      "executedAt": 1785925493150,
+      "serverIdentifier": "server-abb646c4-7158-3d88-bfd0-bc7b24c32633"
+    },
+    {
+      "entryId": "87f5e8e1-d038-4b44-86fa-d363f0a88f33",
+      "command": "/shop",
+      "executedAt": 1785925445155,
+      "serverIdentifier": "server-abb646c4-7158-3d88-bfd0-bc7b24c32633"
+    },
+    {
+      "entryId": "415cae11-dbe4-41bf-b79b-2d0d9b8e255b",
+      "command": "/sbt",
+      "executedAt": 1785924573748,
+      "serverIdentifier": "server-abb646c4-7158-3d88-bfd0-bc7b24c32633"
+    },
+    {
+      "entryId": "f203dc98-2132-4320-9466-00d8cf061dad",
+      "command": "/set air",
+      "executedAt": 1785923684407,
+      "serverIdentifier": "singleplayer"
+    },
+    {
+      "entryId": "5fb439a9-dfaf-4a43-8f17-c0e5214bb96c",
+      "command": "/set white_wool",
+      "executedAt": 1785908013520,
+      "serverIdentifier": "singleplayer"
+    },
+    {
+      "entryId": "33eed9a6-3cb2-4893-9db9-5fdc6384bf89",
+      "command": "/undo",
+      "executedAt": 1785905227480,
+      "serverIdentifier": "singleplayer"
+    },
+    {
+      "entryId": "73907f77-3d96-4133-941e-1ded61f485cc",
+      "command": "/set",
+      "executedAt": 1785903078086,
+      "serverIdentifier": "singleplayer"
+    },
+    {
+      "entryId": "59568914-337e-47db-992c-955950207da0",
+      "command": "/setworldspawn",
+      "executedAt": 1785902866280,
+      "serverIdentifier": "singleplayer"
+    },
+    {
+      "entryId": "46f946b1-a3b2-4d61-ab2a-5d801264a96f",
+      "command": "/res tp XiaoXiao_0225",
+      "executedAt": 1785895905775,
+      "serverIdentifier": "server-26ad6dfc-5abb-3f17-a6ab-b8e6fe8da8dc"
+    },
+    {
+      "entryId": "4e6a9add-f05d-44bf-8bce-0c317c4e0c99",
+      "command": "/res list Kai0727_TW",
+      "executedAt": 1785895512235,
+      "serverIdentifier": "server-26ad6dfc-5abb-3f17-a6ab-b8e6fe8da8dc"
+    },
+    {
+      "entryId": "f14dfb11-2dcb-457f-a666-6b06d9c62734",
+      "command": "/res tp tiger.商店",
+      "executedAt": 1785895364852,
+      "serverIdentifier": "server-26ad6dfc-5abb-3f17-a6ab-b8e6fe8da8dc"
+    },
+    {
+      "entryId": "881c149f-5126-4156-ac87-8aa69f79315e",
+      "command": "/res tp Home_1",
+      "executedAt": 1785889681203,
+      "serverIdentifier": "server-1c684fb3-8349-392f-ab40-04849c6d8794"
+    },
+    {
+      "entryId": "5dbe9883-e160-487b-aed6-f5b8a988f596",
+      "command": "/warp server_shop",
+      "executedAt": 1785889489514,
+      "serverIdentifier": "server-1c684fb3-8349-392f-ab40-04849c6d8794"
+    }
+  ],
+  "favorites": [
+    {
+      "entryId": "033016c3-522c-404b-9a87-488fd047d23c",
+      "name": "開啟金魚背包",
+      "command": "/bpview KairoTW0916",
+      "createdAt": 1785889435867,
+      "updatedAt": 1785889435867,
+      "sortOrder": 0,
+      "serverScope": ""
+    }
+  ]
+}

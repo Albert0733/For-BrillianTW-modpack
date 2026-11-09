@@ -1,0 +1,232 @@
+[
+  {
+    "RawItem": "minecraft:iron_block",
+    "TotalEstimate": 1,
+    "Steps": [],
+    "Results": [
+      {
+        "ResultItem": "minecraft:sticky_piston",
+        "ResultTotal": 3
+      },
+      {
+        "ResultItem": "minecraft:detector_rail",
+        "ResultTotal": 1
+      },
+      {
+        "ResultItem": "minecraft:piston",
+        "ResultTotal": 2
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:iron_ingot",
+    "TotalEstimate": 2,
+    "Steps": [],
+    "Results": [
+      {
+        "ResultItem": "minecraft:sticky_piston",
+        "ResultTotal": 3
+      },
+      {
+        "ResultItem": "minecraft:detector_rail",
+        "ResultTotal": 1
+      },
+      {
+        "ResultItem": "minecraft:piston",
+        "ResultTotal": 2
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:oak_log",
+    "TotalEstimate": 6,
+    "Steps": [],
+    "Results": [
+      {
+        "ResultItem": "minecraft:sticky_piston",
+        "ResultTotal": 3
+      },
+      {
+        "ResultItem": "minecraft:oak_button",
+        "ResultTotal": 1
+      },
+      {
+        "ResultItem": "minecraft:piston",
+        "ResultTotal": 2
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:stone",
+    "TotalEstimate": 38,
+    "Steps": [],
+    "Results": [
+      {
+        "ResultItem": "minecraft:sticky_piston",
+        "ResultTotal": 3
+      },
+      {
+        "ResultItem": "minecraft:observer",
+        "ResultTotal": 3
+      },
+      {
+        "ResultItem": "minecraft:piston",
+        "ResultTotal": 2
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:redstone_block",
+    "TotalEstimate": 3,
+    "Steps": [],
+    "Results": [
+      {
+        "ResultItem": "minecraft:sticky_piston",
+        "ResultTotal": 3
+      },
+      {
+        "ResultItem": "minecraft:detector_rail",
+        "ResultTotal": 1
+      },
+      {
+        "ResultItem": "minecraft:observer",
+        "ResultTotal": 3
+      },
+      {
+        "ResultItem": "minecraft:redstone_block",
+        "ResultTotal": 2
+      },
+      {
+        "ResultItem": "minecraft:piston",
+        "ResultTotal": 2
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:redstone",
+    "TotalEstimate": 3,
+    "Steps": [],
+    "Results": [
+      {
+        "ResultItem": "minecraft:sticky_piston",
+        "ResultTotal": 3
+      },
+      {
+        "ResultItem": "minecraft:detector_rail",
+        "ResultTotal": 1
+      },
+      {
+        "ResultItem": "minecraft:observer",
+        "ResultTotal": 3
+      },
+      {
+        "ResultItem": "minecraft:redstone_block",
+        "ResultTotal": 2
+      },
+      {
+        "ResultItem": "minecraft:piston",
+        "ResultTotal": 2
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:dead_horn_coral_fan",
+    "TotalEstimate": 1,
+    "Steps": [],
+    "Results": [
+      {
+        "ResultItem": "minecraft:dead_horn_coral_fan",
+        "ResultTotal": 1
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:nether_quartz_ore",
+    "TotalEstimate": 3,
+    "Steps": [],
+    "Results": [
+      {
+        "ResultItem": "minecraft:observer",
+        "ResultTotal": 3
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:glass",
+    "TotalEstimate": 1,
+    "Steps": [],
+    "Results": [
+      {
+        "ResultItem": "minecraft:glass",
+        "ResultTotal": 1
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:cobblestone",
+    "TotalEstimate": 5,
+    "Steps": [],
+    "Results": [
+      {
+        "ResultItem": "minecraft:stone_brick_wall",
+        "ResultTotal": 3
+      },
+      {
+        "ResultItem": "minecraft:detector_rail",
+        "ResultTotal": 1
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:slime_block",
+    "TotalEstimate": 12,
+    "Steps": [],
+    "Results": [
+      {
+        "ResultItem": "minecraft:slime_block",
+        "ResultTotal": 12
+      },
+      {
+        "ResultItem": "minecraft:sticky_piston",
+        "ResultTotal": 3
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:slime_ball",
+    "TotalEstimate": 3,
+    "Steps": [],
+    "Results": [
+      {
+        "ResultItem": "minecraft:slime_block",
+        "ResultTotal": 12
+      },
+      {
+        "ResultItem": "minecraft:sticky_piston",
+        "ResultTotal": 3
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:gunpowder",
+    "TotalEstimate": 5,
+    "Steps": [],
+    "Results": [
+      {
+        "ResultItem": "minecraft:tnt",
+        "ResultTotal": 1
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:sand",
+    "TotalEstimate": 4,
+    "Steps": [],
+    "Results": [
+      {
+        "ResultItem": "minecraft:tnt",
+        "ResultTotal": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+﻿LogoCustom: true
+State: 9
+Logo: PCL\Logo.png
+VersionFabric: 0.20.1
+CustomInfo: 適用於【輝煌】伺服器的整合包
+Info: 適用於【輝煌】伺服器的整合包
+ReleaseTime: 2026-09-15 19:23
+VersionLegacyFabric: ''
+VersionQuilt: ''
+VersionLabyMod: ''
+VersionOptiFine: ''
+VersionLiteLoader: false
+VersionForge: ''
+VersionNeoForge: ''
+VersionCleanroom: ''
+VersionVanillaName: 26.3
+VersionVanilla: 26.3.0
+VersionArgumentIndieV2: true
+VersionLaunchCount: 2

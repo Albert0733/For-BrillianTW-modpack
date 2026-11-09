@@ -1,0 +1,10 @@
+{
+  "telemetry": true,
+  "install_id": "3d3c4253-9a67-40a6-9c9c-80523d65d52f",
+  "settings": {
+    "auto_update": "true",
+    "update_owner": "Zeffut",
+    "update_all": "false",
+    "update_exclude": ""
+  }
+}

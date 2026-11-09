@@ -1,0 +1,90 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "C:\\Users\\Albert\\AppData\\Roaming\\.minecraft\\versions\\by.dddadian01 26.3\\schematics\\生電機器\\疣猪兽.litematic",
+        "name": "hoglins MEGA farm",
+        "origin": [
+          135,
+          135,
+          526
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 8404597,
+        "verifier_type": "all",
+        "hash_code": "0d8e1ab8-8b4b-483c-89a3-6e357362350e",
+        "placements": [
+          {
+            "name": "hoglins MEGA farm",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "hoglins MEGA farm",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 0,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "follow_player": false,
+    "layer_single": 210,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "player_follow_offset": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "ac",
+    "current": "ac",
+    "boxes": [
+      {
+        "pos1": [
+          16,
+          -1,
+          7
+        ],
+        "pos2": [
+          47,
+          4,
+          -16
+        ],
+        "name": "ac"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  },
+  "block_entities": {}
+}

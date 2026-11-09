@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "sounds": {
+    "minecraft:block.wooden_door.open": 1.0,
+    "minecraft:block.copper_trapdoor.close": 1.0,
+    "minecraft:entity.slime.squish": 0.0,
+    "minecraft:entity.slime.jump_small": 0.0,
+    "minecraft:entity.blaze.hurt": 1.0,
+    "minecraft:entity.blaze.death": 1.0,
+    "minecraft:block.wooden_trapdoor.close": 1.0,
+    "minecraft:ui.button.click": 1.0,
+    "minecraft:entity.slime.jump": 0.0,
+    "minecraft:block.wooden_door.close": 1.0,
+    "minecraft:music.creative": 1.0,
+    "minecraft:block.copper_trapdoor.open": 1.0
+  }
+}

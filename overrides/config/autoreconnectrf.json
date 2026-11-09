@@ -1,0 +1,26 @@
+{
+  "options": {
+    "delays": [
+      3.0,
+      10.0,
+      30.0,
+      60.0
+    ],
+    "initial": false,
+    "infinite": true,
+    "conditionType": false,
+    "conditionKeys": [
+      "multiplayer.disconnect.banned"
+    ],
+    "conditionPatterns": [],
+    "autoMessages": [
+      {
+        "id": "/s3",
+        "delay": 10.0,
+        "messages": []
+      }
+    ],
+    "commandSigning": false,
+    "regexIds": false
+  }
+}

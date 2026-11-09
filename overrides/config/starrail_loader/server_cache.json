@@ -1,0 +1,18 @@
+[
+  {
+    "id": "mp:brilliantw.net",
+    "name": "BrillianTW",
+    "type": "multiplayer",
+    "autoJoinRoomId": "",
+    "autoJoinEnabled": true,
+    "lastJoined": 1784727722385
+  },
+  {
+    "id": "mp:play.whitecloud.dpdns.org",
+    "name": "Minecraft 伺服器",
+    "type": "multiplayer",
+    "autoJoinRoomId": "",
+    "autoJoinEnabled": true,
+    "lastJoined": 1784727828428
+  }
+]

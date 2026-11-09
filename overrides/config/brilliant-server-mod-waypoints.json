@@ -1,0 +1,83 @@
+{
+  "s3.brilliantw.net|minecraft:overworld": [
+    {
+      "id": "f6e8a35c-12b1-4a4d-928d-6250b7a994b5",
+      "name": "上次死亡點",
+      "x": -5973,
+      "y": 61,
+      "z": 15339,
+      "color": 0,
+      "visible": true,
+      "death": true
+    },
+    {
+      "id": "5caa5d98-3557-4758-9c40-810de93b9d08",
+      "name": "asd",
+      "x": -12829,
+      "y": 72,
+      "z": -7471,
+      "color": 1,
+      "visible": true,
+      "death": false
+    },
+    {
+      "id": "67d11bb4-226f-4e44-ac1b-e7a8343ef7c9",
+      "name": "asd",
+      "x": -14044,
+      "y": 79,
+      "z": -19094,
+      "color": 2,
+      "visible": true,
+      "death": false
+    }
+  ],
+  "wt.brilliantw.net|minecraft:overworld": [
+    {
+      "id": "a4e089cd-4103-425e-a605-92702d11fe81",
+      "name": "上次死亡點",
+      "x": 3339,
+      "y": 86,
+      "z": 12798,
+      "color": 0,
+      "visible": true,
+      "death": true
+    }
+  ],
+  "s3.brilliantw.net|minecraft:the_nether": [
+    {
+      "id": "56c774cc-a346-4135-a45b-5ba8c8270c5a",
+      "name": "上次死亡點",
+      "x": 13685,
+      "y": 45,
+      "z": 3379,
+      "color": 0,
+      "visible": true,
+      "death": true
+    }
+  ],
+  "s1.brilliantw.net|minecraft:overworld": [
+    {
+      "id": "4993ed73-6ebe-48fc-a401-c873cec0785a",
+      "name": "上次死亡點",
+      "x": 4372,
+      "y": 123,
+      "z": 12606,
+      "color": 0,
+      "visible": true,
+      "death": true
+    }
+  ],
+  "s2.brilliantw.net|minecraft:overworld": [],
+  "s4.brilliantw.net|minecraft:overworld": [
+    {
+      "id": "69dad25b-e2e9-4d5a-8cba-317eccabb27b",
+      "name": "上次死亡點",
+      "x": 20432,
+      "y": -15,
+      "z": -18854,
+      "color": 0,
+      "visible": true,
+      "death": true
+    }
+  ]
+}

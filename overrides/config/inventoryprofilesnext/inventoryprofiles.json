@@ -1,0 +1,17 @@
+{
+    "ModSettings": {
+        "first_run": false
+    },
+    "AutoRefillSettings": {
+        "refill_armor": {
+            "value": false
+        },
+        "refill_before_tool_break": {
+            "value": false
+        },
+        "stackable_threshold": 5,
+        "allow_break_for_non_enchanted": {
+            "value": true
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "Generic": {
+    "schematicpreviewEnabled": true,
+    "schematicpreviewConfigMenuHotkey": {
+      "keys": "RIGHT_SHIFT,F8"
+    }
+  },
+  "Menu": {
+    "schematicpreviewType": "list",
+    "schematicpreviewEntryGapX": 2,
+    "schematicpreviewEntryGapY": 2,
+    "schematicpreviewListEntryHeight": 15,
+    "schematicpreviewListPreviewEntryHeight": 35,
+    "schematicpreviewTileHeightRatio": 1.0
+  },
+  "Preview": {
+    "schematicpreviewMaxVolume": 125000,
+    "schematicpreviewRenderTile": true,
+    "schematicpreviewFov": 50.0,
+    "schematicpreviewRotationY": -45.0,
+    "schematicpreviewRotationX": 30.0
+  }
+}

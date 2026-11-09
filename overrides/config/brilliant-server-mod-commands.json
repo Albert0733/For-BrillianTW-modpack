@@ -1,0 +1,135 @@
+{
+  "groups": [
+    {
+      "name": "熊領地",
+      "commands": [
+        {
+          "command": "res tp 熊領地",
+          "note": "熊領地",
+          "alias": "",
+          "key": "",
+          "mods": 0
+        },
+        {
+          "command": "res tp 熊領地.村民交易",
+          "note": "村民交易",
+          "alias": "",
+          "key": "",
+          "mods": 0
+        },
+        {
+          "command": "res tp 熊領地2.盒子",
+          "note": "界伏殼農場",
+          "alias": "",
+          "key": "",
+          "mods": 0
+        },
+        {
+          "command": "res tp 熊領地.640熔爐",
+          "note": "石材工廠",
+          "alias": "",
+          "key": "",
+          "mods": 0
+        },
+        {
+          "command": "res tp 熊領地.鐵人塔",
+          "note": "鐵人塔",
+          "alias": "",
+          "key": "",
+          "mods": 0
+        },
+        {
+          "command": "res tp 熊刷沙機",
+          "note": "刷沙機",
+          "alias": "",
+          "key": "",
+          "mods": 0
+        },
+        {
+          "command": "res tp 熊劫掠塔",
+          "note": "突襲buff 經驗塔",
+          "alias": "",
+          "key": "",
+          "mods": 0
+        },
+        {
+          "command": "res tp 熊印鈔機",
+          "note": "突襲農場",
+          "alias": "",
+          "key": "",
+          "mods": 0
+        },
+        {
+          "command": "res tp 熊蛙光體農場",
+          "note": "三色蛙光體",
+          "alias": "",
+          "key": "",
+          "mods": 0
+        },
+        {
+          "command": "res tp 熊熔岩史萊姆塔",
+          "note": "蛙光體農場的掛機點",
+          "alias": "",
+          "key": "",
+          "mods": 0
+        },
+        {
+          "command": "res tp 女巫刷怪塔",
+          "note": "女巫刷怪塔",
+          "alias": "",
+          "key": "",
+          "mods": 0
+        },
+        {
+          "command": "res tp 養蜂塔",
+          "note": "蜂蜜瓶,蜂巢",
+          "alias": "",
+          "key": "",
+          "mods": 0
+        },
+        {
+          "command": "res tp 凋零塔",
+          "note": "凋零塔",
+          "alias": "",
+          "key": "",
+          "mods": 0
+        },
+        {
+          "command": "res tp 魚塔",
+          "note": "整修中 無限期不開放",
+          "alias": "",
+          "key": "",
+          "mods": 0
+        },
+        {
+          "command": "res tp goldfarm",
+          "note": "豬人塔",
+          "alias": "",
+          "key": "",
+          "mods": 0
+        }
+      ],
+      "children": []
+    },
+    {
+      "name": "領地插件",
+      "commands": [
+        {
+          "command": "res contract",
+          "note": "向玩家所面對的方向縮小領地格數",
+          "alias": "",
+          "key": "",
+          "mods": 0
+        },
+        {
+          "command": "res expand",
+          "note": "向玩家所面對的方向往前擴大領地格數",
+          "alias": "",
+          "key": "",
+          "mods": 0
+        }
+      ],
+      "children": []
+    }
+  ]
+}

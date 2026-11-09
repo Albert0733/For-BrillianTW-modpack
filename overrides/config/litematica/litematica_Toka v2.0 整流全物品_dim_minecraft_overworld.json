@@ -1,0 +1,46 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {},
+  "schematic_projects_manager": {},
+  "operation_mode": "AREA_SELECTION",
+  "render_range": {
+    "mode": "SINGLE_LAYER",
+    "axis": "y",
+    "follow_player": false,
+    "layer_single": 63,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "player_follow_offset": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Toka V2.0 整流全物品",
+    "current": "Toka V2.0 整流全物品",
+    "boxes": [
+      {
+        "pos1": [
+          -382,
+          101,
+          567
+        ],
+        "pos2": [
+          -269,
+          154,
+          429
+        ],
+        "name": "Toka V2.0 整流全物品"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  },
+  "block_entities": {}
+}

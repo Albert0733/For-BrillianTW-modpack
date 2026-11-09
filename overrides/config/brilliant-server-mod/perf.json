@@ -1,0 +1,84 @@
+{
+  "sessions": [
+    {
+      "start": 1793084400,
+      "seconds": 215,
+      "avgFps": 143,
+      "low1": 48,
+      "stutters": 0,
+      "renderDistance": 32
+    },
+    {
+      "start": 1793084624,
+      "seconds": 26089,
+      "avgFps": 50,
+      "low1": 7,
+      "stutters": 194,
+      "renderDistance": 32
+    },
+    {
+      "start": 1793110743,
+      "seconds": 2494,
+      "avgFps": 54,
+      "low1": 30,
+      "stutters": 7,
+      "renderDistance": 32
+    },
+    {
+      "start": 1793113304,
+      "seconds": 39377,
+      "avgFps": 71,
+      "low1": 7,
+      "stutters": 248,
+      "renderDistance": 32
+    },
+    {
+      "start": 1793159069,
+      "seconds": 2408,
+      "avgFps": 21,
+      "low1": 0,
+      "stutters": 305,
+      "renderDistance": 32
+    },
+    {
+      "start": 1793162337,
+      "seconds": 14317,
+      "avgFps": 50,
+      "low1": 6,
+      "stutters": 407,
+      "renderDistance": 32
+    },
+    {
+      "start": 1793220195,
+      "seconds": 283,
+      "avgFps": 28,
+      "low1": 0,
+      "stutters": 14,
+      "renderDistance": 32
+    },
+    {
+      "start": 1793220595,
+      "seconds": 360,
+      "avgFps": 28,
+      "low1": 0,
+      "stutters": 17,
+      "renderDistance": 32
+    },
+    {
+      "start": 1793221260,
+      "seconds": 21022,
+      "avgFps": 40,
+      "low1": 19,
+      "stutters": 182,
+      "renderDistance": 32
+    },
+    {
+      "start": 1793242319,
+      "seconds": 4727,
+      "avgFps": 30,
+      "low1": 20,
+      "stutters": 37,
+      "renderDistance": 32
+    }
+  ]
+}

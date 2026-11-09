@@ -1,0 +1,8 @@
+{
+  "enabled": false,
+  "scale": 2.0,
+  "legend": true,
+  "legendScale": 2.0,
+  "mode": "PLAYER",
+  "fixedY": 64
+}

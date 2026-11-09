@@ -1,0 +1,127 @@
+{
+  "enabled": true,
+  "playerChatEnabled": true,
+  "playerChatLayoutMode": "CLASSIC",
+  "splitMessageMaxWidthRatio": 0.75,
+  "chatXRatio": 0.0125,
+  "chatYRatio": 0.6954813359528488,
+  "chatWidthRatio": 0.35,
+  "chatHeightRatio": 0.28094302554027506,
+  "text": {
+    "fontScale": 1.0,
+    "lineSpacing": 1.0,
+    "textOpacity": 1.0,
+    "alignment": "LEFT",
+    "shadow": true,
+    "characterSpacing": 0.0
+  },
+  "background": {
+    "messageMode": "FOLLOW_TEXT",
+    "messageColor": 0,
+    "messageOpacity": 0.5,
+    "horizontalPadding": 2,
+    "verticalPadding": 1,
+    "inputColor": 0,
+    "inputOpacity": 0.7,
+    "inputBorderEnabled": false,
+    "inputBorderColor": 7252223,
+    "inputBorderOpacity": 0.8
+  },
+  "playerColors": {
+    "enabled": true,
+    "mode": "AUTOMATIC",
+    "palette": [
+      5089023,
+      2741224,
+      2476456,
+      5626219,
+      10672218,
+      15909198,
+      16750141,
+      16739167,
+      16732016,
+      15755951,
+      13137396,
+      10980346
+    ],
+    "uuidOverrides": {},
+    "nameOverrides": {},
+    "showNameHitboxes": false
+  },
+  "mention": {
+    "doubleClickEnabled": true,
+    "doubleClickIntervalMs": 350,
+    "highlightEnabled": true,
+    "highlightColor": 16732120,
+    "highlightBold": true,
+    "requireAtSymbol": true,
+    "soundEnabled": true,
+    "sound": "EXPERIENCE_ORB",
+    "soundVolume": 0.8,
+    "soundPitch": 1.0,
+    "toastEnabled": true,
+    "toastWhenChatOpen": false,
+    "toastMessageLength": 80,
+    "flashEnabled": false,
+    "flashColor": 16732120,
+    "flashOpacity": 0.22,
+    "flashDurationMs": 350,
+    "ignoreOwnMessages": true,
+    "playerQuickActionsEnabled": true,
+    "privateMessageTemplate": "/msg {player} "
+  },
+  "commandClipboard": {
+    "enabled": true,
+    "showPanelButton": true,
+    "insertMode": "REPLACE_INPUT",
+    "allowDuplicates": false,
+    "sensitiveWarning": true,
+    "maxCommands": 200,
+    "hiddenPresetIds": [],
+    "recordRecentCommands": true,
+    "maxRecentCommands": 100,
+    "clearRecentOnDisconnect": false,
+    "excludedCommandNames": [
+      "auth",
+      "login",
+      "passwd",
+      "password",
+      "register",
+      "token"
+    ]
+  },
+  "recentColors": [],
+  "editorUiStyle": "CHAT_CANVAS",
+  "commandSystem": {
+    "enabled": true,
+    "layout": {
+      "chatXRatio": 0.0125,
+      "chatYRatio": 0.44204322200392926,
+      "chatWidthRatio": 0.35,
+      "chatHeightRatio": 0.28094302554027506
+    },
+    "text": {
+      "fontScale": 1.0,
+      "lineSpacing": 1.0,
+      "textOpacity": 1.0,
+      "alignment": "LEFT",
+      "shadow": true,
+      "characterSpacing": 0.0
+    },
+    "background": {
+      "messageMode": "FOLLOW_TEXT",
+      "messageColor": 0,
+      "messageOpacity": 0.5,
+      "horizontalPadding": 2,
+      "verticalPadding": 1
+    },
+    "textColor": 16777215,
+    "maximumMessages": 300,
+    "fadeSeconds": 10,
+    "messageSpacing": 2.0,
+    "scrollSpeed": 18.0,
+    "outline": false,
+    "outlineColor": 0,
+    "outlineOpacity": 1.0
+  }
+}

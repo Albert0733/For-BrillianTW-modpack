@@ -1,0 +1,129 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "C:\\Users\\Albert\\AppData\\Roaming\\.minecraft\\versions\\by.dddadian 1.21.11\\schematics\\CNJ全花种刷花机.litematic",
+        "name": "CNJ全花种刷花机",
+        "origin": [
+          -209,
+          149,
+          -168
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 32052,
+        "verifier_type": "all",
+        "hash_code": "f756a873-131b-439e-a6c7-9793815005a4",
+        "placements": [
+          {
+            "name": "CNJ全花种刷花机",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "CNJ全花种刷花机",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\Albert\\AppData\\Roaming\\.minecraft\\versions\\by.dddadian 1.21.11\\schematics\\20260825151055239-12w-3gt烧车刷花机带收集.litematic",
+        "name": "Unnamed",
+        "origin": [
+          -74,
+          157,
+          195
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "hash_code": "d2331bee-1589-48bc-928b-eec270a62191",
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 1,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "follow_player": false,
+    "layer_single": -56,
+    "layer_above": -59,
+    "layer_below": 13,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "player_follow_offset": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "手动打包机",
+    "current": "手动打包机",
+    "boxes": [
+      {
+        "pos1": [
+          -209,
+          148,
+          -100
+        ],
+        "pos2": [
+          -209,
+          148,
+          -100
+        ],
+        "name": "手动打包机"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  },
+  "block_entities": {}
+}

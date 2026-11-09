@@ -1,0 +1,40 @@
+{
+    "version": 6,
+    "config": {
+        "conditionStatement": {
+            "raw": "ENCHANTMENT"
+        },
+        "itemsAllowed": true,
+        "expAllowed": true,
+        "buckets": {
+            "enabled": false,
+            "abilityTimeout": 30000
+        },
+        "leafDecay": {
+            "enabled": false,
+            "abilityTimeout": 300000
+        },
+        "ignoredEntitiesRangeMin": 50.0,
+        "ignoreEntities": [],
+        "ignoreBlocks": [],
+        "fullInventoryAlert": {
+            "soundAlert": {
+                "enabled": true,
+                "cooldownInSeconds": 5
+            },
+            "textAlert": {
+                "enabled": true,
+                "cooldownInSeconds": 60
+            },
+            "titleAlert": {
+                "enabled": false,
+                "cooldownInSeconds": 5
+            }
+        },
+        "animation": {
+            "enabled": true,
+            "blocksPerSecond": 1.0,
+            "canOtherPlayersPickup": false
+        }
+    }
+}

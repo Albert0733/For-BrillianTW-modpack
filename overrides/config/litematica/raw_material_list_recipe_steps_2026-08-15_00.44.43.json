@@ -1,0 +1,574 @@
+[
+  {
+    "RawItem": "minecraft:iron_ingot",
+    "TotalEstimate": 2,
+    "Steps": [
+      {
+        "StepItem": "minecraft:redstone",
+        "StepCount": 2,
+        "RecipeType": "unknown",
+        "RecipeCategory": "GATHER",
+        "RecipeId": -1
+      },
+      {
+        "StepItem": "minecraft:stone",
+        "StepCount": 8,
+        "RecipeType": "unknown",
+        "RecipeCategory": "GATHER",
+        "RecipeId": -1
+      },
+      {
+        "StepItem": "minecraft:cobblestone",
+        "StepCount": 8,
+        "RecipeType": "stonecutter",
+        "RecipeCategory": "minecraft:stonecutter",
+        "RecipeId": 243
+      },
+      {
+        "StepItem": "minecraft:oak_log",
+        "StepCount": 2,
+        "RecipeType": "unknown",
+        "RecipeCategory": "GATHER",
+        "RecipeId": -1
+      },
+      {
+        "StepItem": "minecraft:oak_planks",
+        "StepCount": 6,
+        "RecipeType": "shapeless",
+        "RecipeCategory": "minecraft:crafting_building_blocks",
+        "RecipeId": 894
+      },
+      {
+        "StepItem": "minecraft:iron_ingot",
+        "StepCount": 2,
+        "RecipeType": "unknown",
+        "RecipeCategory": "GATHER",
+        "RecipeId": -1
+      },
+      {
+        "StepItem": "minecraft:piston",
+        "StepCount": 2,
+        "RecipeType": "shaped",
+        "RecipeCategory": "minecraft:crafting_redstone",
+        "RecipeId": 972
+      }
+    ],
+    "Results": [
+      {
+        "ResultItem": "minecraft:piston",
+        "ResultTotal": 2
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:oak_log",
+    "TotalEstimate": 2,
+    "Steps": [],
+    "Results": [
+      {
+        "ResultItem": "minecraft:piston",
+        "ResultTotal": 2
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:stone",
+    "TotalEstimate": 8,
+    "Steps": [],
+    "Results": [
+      {
+        "ResultItem": "minecraft:piston",
+        "ResultTotal": 2
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:redstone",
+    "TotalEstimate": 2,
+    "Steps": [],
+    "Results": [
+      {
+        "ResultItem": "minecraft:piston",
+        "ResultTotal": 2
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:oak_log",
+    "TotalEstimate": 1,
+    "Steps": [
+      {
+        "StepItem": "minecraft:oak_log",
+        "StepCount": 1,
+        "RecipeType": "unknown",
+        "RecipeCategory": "GATHER",
+        "RecipeId": -1
+      },
+      {
+        "StepItem": "minecraft:oak_planks",
+        "StepCount": 1,
+        "RecipeType": "shapeless",
+        "RecipeCategory": "minecraft:crafting_building_blocks",
+        "RecipeId": 894
+      },
+      {
+        "StepItem": "minecraft:oak_button",
+        "StepCount": 1,
+        "RecipeType": "shapeless",
+        "RecipeCategory": "minecraft:crafting_redstone",
+        "RecipeId": 888
+      }
+    ],
+    "Results": [
+      {
+        "ResultItem": "minecraft:oak_button",
+        "ResultTotal": 1
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:dead_horn_coral_fan",
+    "TotalEstimate": 1,
+    "Steps": [
+      {
+        "StepItem": "minecraft:dead_horn_coral_fan",
+        "StepCount": 1,
+        "RecipeType": "unknown",
+        "RecipeCategory": "GATHER",
+        "RecipeId": -1
+      }
+    ],
+    "Results": [
+      {
+        "ResultItem": "minecraft:dead_horn_coral_fan",
+        "ResultTotal": 1
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:redstone",
+    "TotalEstimate": 18,
+    "Steps": [
+      {
+        "StepItem": "minecraft:redstone",
+        "StepCount": 18,
+        "RecipeType": "unknown",
+        "RecipeCategory": "GATHER",
+        "RecipeId": -1
+      },
+      {
+        "StepItem": "minecraft:redstone_block",
+        "StepCount": 2,
+        "RecipeType": "shaped",
+        "RecipeCategory": "minecraft:crafting_redstone",
+        "RecipeId": 1168
+      }
+    ],
+    "Results": [
+      {
+        "ResultItem": "minecraft:redstone_block",
+        "ResultTotal": 2
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:nether_quartz_ore",
+    "TotalEstimate": 3,
+    "Steps": [
+      {
+        "StepItem": "minecraft:redstone",
+        "StepCount": 6,
+        "RecipeType": "unknown",
+        "RecipeCategory": "GATHER",
+        "RecipeId": -1
+      },
+      {
+        "StepItem": "minecraft:stone",
+        "StepCount": 18,
+        "RecipeType": "unknown",
+        "RecipeCategory": "GATHER",
+        "RecipeId": -1
+      },
+      {
+        "StepItem": "minecraft:cobblestone",
+        "StepCount": 18,
+        "RecipeType": "stonecutter",
+        "RecipeCategory": "minecraft:stonecutter",
+        "RecipeId": 243
+      },
+      {
+        "StepItem": "minecraft:nether_quartz_ore",
+        "StepCount": 3,
+        "RecipeType": "unknown",
+        "RecipeCategory": "GATHER",
+        "RecipeId": -1
+      },
+      {
+        "StepItem": "minecraft:quartz",
+        "StepCount": 3,
+        "RecipeType": "furnace",
+        "RecipeCategory": "minecraft:furnace_misc",
+        "RecipeId": 1113
+      },
+      {
+        "StepItem": "minecraft:observer",
+        "StepCount": 3,
+        "RecipeType": "shaped",
+        "RecipeCategory": "minecraft:crafting_redstone",
+        "RecipeId": 902
+      }
+    ],
+    "Results": [
+      {
+        "ResultItem": "minecraft:observer",
+        "ResultTotal": 3
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:stone",
+    "TotalEstimate": 18,
+    "Steps": [],
+    "Results": [
+      {
+        "ResultItem": "minecraft:observer",
+        "ResultTotal": 3
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:redstone",
+    "TotalEstimate": 6,
+    "Steps": [],
+    "Results": [
+      {
+        "ResultItem": "minecraft:observer",
+        "ResultTotal": 3
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:glass",
+    "TotalEstimate": 1,
+    "Steps": [
+      {
+        "StepItem": "minecraft:glass",
+        "StepCount": 1,
+        "RecipeType": "unknown",
+        "RecipeCategory": "GATHER",
+        "RecipeId": -1
+      }
+    ],
+    "Results": [
+      {
+        "ResultItem": "minecraft:glass",
+        "ResultTotal": 1
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:iron_ingot",
+    "TotalEstimate": 6,
+    "Steps": [
+      {
+        "StepItem": "minecraft:redstone",
+        "StepCount": 1,
+        "RecipeType": "unknown",
+        "RecipeCategory": "GATHER",
+        "RecipeId": -1
+      },
+      {
+        "StepItem": "minecraft:cobblestone",
+        "StepCount": 2,
+        "RecipeType": "unknown",
+        "RecipeCategory": "GATHER",
+        "RecipeId": -1
+      },
+      {
+        "StepItem": "minecraft:stone",
+        "StepCount": 2,
+        "RecipeType": "furnace",
+        "RecipeCategory": "minecraft:furnace_blocks",
+        "RecipeId": 1262
+      },
+      {
+        "StepItem": "minecraft:stone_pressure_plate",
+        "StepCount": 1,
+        "RecipeType": "shaped",
+        "RecipeCategory": "minecraft:crafting_redstone",
+        "RecipeId": 1278
+      },
+      {
+        "StepItem": "minecraft:iron_ingot",
+        "StepCount": 6,
+        "RecipeType": "unknown",
+        "RecipeCategory": "GATHER",
+        "RecipeId": -1
+      },
+      {
+        "StepItem": "minecraft:detector_rail",
+        "StepCount": 1,
+        "RecipeType": "shaped",
+        "RecipeCategory": "minecraft:crafting_misc",
+        "RecipeId": 433
+      }
+    ],
+    "Results": [
+      {
+        "ResultItem": "minecraft:detector_rail",
+        "ResultTotal": 1
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:cobblestone",
+    "TotalEstimate": 2,
+    "Steps": [],
+    "Results": [
+      {
+        "ResultItem": "minecraft:detector_rail",
+        "ResultTotal": 1
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:redstone",
+    "TotalEstimate": 1,
+    "Steps": [],
+    "Results": [
+      {
+        "ResultItem": "minecraft:detector_rail",
+        "ResultTotal": 1
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:iron_ingot",
+    "TotalEstimate": 3,
+    "Steps": [
+      {
+        "StepItem": "minecraft:slime_ball",
+        "StepCount": 3,
+        "RecipeType": "unknown",
+        "RecipeCategory": "GATHER",
+        "RecipeId": -1
+      },
+      {
+        "StepItem": "minecraft:redstone",
+        "StepCount": 3,
+        "RecipeType": "unknown",
+        "RecipeCategory": "GATHER",
+        "RecipeId": -1
+      },
+      {
+        "StepItem": "minecraft:stone",
+        "StepCount": 12,
+        "RecipeType": "unknown",
+        "RecipeCategory": "GATHER",
+        "RecipeId": -1
+      },
+      {
+        "StepItem": "minecraft:cobblestone",
+        "StepCount": 12,
+        "RecipeType": "stonecutter",
+        "RecipeCategory": "minecraft:stonecutter",
+        "RecipeId": 243
+      },
+      {
+        "StepItem": "minecraft:oak_log",
+        "StepCount": 3,
+        "RecipeType": "unknown",
+        "RecipeCategory": "GATHER",
+        "RecipeId": -1
+      },
+      {
+        "StepItem": "minecraft:oak_planks",
+        "StepCount": 9,
+        "RecipeType": "shapeless",
+        "RecipeCategory": "minecraft:crafting_building_blocks",
+        "RecipeId": 894
+      },
+      {
+        "StepItem": "minecraft:iron_ingot",
+        "StepCount": 3,
+        "RecipeType": "unknown",
+        "RecipeCategory": "GATHER",
+        "RecipeId": -1
+      },
+      {
+        "StepItem": "minecraft:piston",
+        "StepCount": 3,
+        "RecipeType": "shaped",
+        "RecipeCategory": "minecraft:crafting_redstone",
+        "RecipeId": 972
+      },
+      {
+        "StepItem": "minecraft:sticky_piston",
+        "StepCount": 3,
+        "RecipeType": "shaped",
+        "RecipeCategory": "minecraft:crafting_redstone",
+        "RecipeId": 1261
+      }
+    ],
+    "Results": [
+      {
+        "ResultItem": "minecraft:sticky_piston",
+        "ResultTotal": 3
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:oak_log",
+    "TotalEstimate": 3,
+    "Steps": [],
+    "Results": [
+      {
+        "ResultItem": "minecraft:sticky_piston",
+        "ResultTotal": 3
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:stone",
+    "TotalEstimate": 12,
+    "Steps": [],
+    "Results": [
+      {
+        "ResultItem": "minecraft:sticky_piston",
+        "ResultTotal": 3
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:redstone",
+    "TotalEstimate": 3,
+    "Steps": [],
+    "Results": [
+      {
+        "ResultItem": "minecraft:sticky_piston",
+        "ResultTotal": 3
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:slime_ball",
+    "TotalEstimate": 3,
+    "Steps": [],
+    "Results": [
+      {
+        "ResultItem": "minecraft:sticky_piston",
+        "ResultTotal": 3
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:gunpowder",
+    "TotalEstimate": 5,
+    "Steps": [
+      {
+        "StepItem": "minecraft:sand",
+        "StepCount": 4,
+        "RecipeType": "unknown",
+        "RecipeCategory": "GATHER",
+        "RecipeId": -1
+      },
+      {
+        "StepItem": "minecraft:gunpowder",
+        "StepCount": 5,
+        "RecipeType": "unknown",
+        "RecipeCategory": "GATHER",
+        "RecipeId": -1
+      },
+      {
+        "StepItem": "minecraft:tnt",
+        "StepCount": 1,
+        "RecipeType": "shaped",
+        "RecipeCategory": "minecraft:crafting_redstone",
+        "RecipeId": 1345
+      }
+    ],
+    "Results": [
+      {
+        "ResultItem": "minecraft:tnt",
+        "ResultTotal": 1
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:sand",
+    "TotalEstimate": 4,
+    "Steps": [],
+    "Results": [
+      {
+        "ResultItem": "minecraft:tnt",
+        "ResultTotal": 1
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:slime_ball",
+    "TotalEstimate": 108,
+    "Steps": [
+      {
+        "StepItem": "minecraft:slime_ball",
+        "StepCount": 108,
+        "RecipeType": "unknown",
+        "RecipeCategory": "GATHER",
+        "RecipeId": -1
+      },
+      {
+        "StepItem": "minecraft:slime_block",
+        "StepCount": 12,
+        "RecipeType": "shaped",
+        "RecipeCategory": "minecraft:crafting_redstone",
+        "RecipeId": 1210
+      }
+    ],
+    "Results": [
+      {
+        "ResultItem": "minecraft:slime_block",
+        "ResultTotal": 12
+      }
+    ]
+  },
+  {
+    "RawItem": "minecraft:cobblestone",
+    "TotalEstimate": 3,
+    "Steps": [
+      {
+        "StepItem": "minecraft:cobblestone",
+        "StepCount": 3,
+        "RecipeType": "unknown",
+        "RecipeCategory": "GATHER",
+        "RecipeId": -1
+      },
+      {
+        "StepItem": "minecraft:stone",
+        "StepCount": 3,
+        "RecipeType": "furnace",
+        "RecipeCategory": "minecraft:furnace_blocks",
+        "RecipeId": 1262
+      },
+      {
+        "StepItem": "minecraft:stone_bricks",
+        "StepCount": 3,
+        "RecipeType": "stonecutter",
+        "RecipeCategory": "minecraft:stonecutter",
+        "RecipeId": 1274
+      },
+      {
+        "StepItem": "minecraft:stone_brick_wall",
+        "StepCount": 3,
+        "RecipeType": "stonecutter",
+        "RecipeCategory": "minecraft:stonecutter",
+        "RecipeId": 1271
+      }
+    ],
+    "Results": [
+      {
+        "ResultItem": "minecraft:stone_brick_wall",
+        "ResultTotal": 3
+      }
+    ]
+  }
+]

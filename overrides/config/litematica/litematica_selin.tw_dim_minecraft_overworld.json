@@ -1,0 +1,189 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "C:\\Users\\Albert\\AppData\\Roaming\\.minecraft\\versions\\by.dddadian 1.21.11\\schematics\\生電機器\\無外觀-蜜蜂農場.litematic",
+        "name": "Unnamed",
+        "origin": [
+          -14335,
+          117,
+          -4078
+        ],
+        "rotation": "CLOCKWISE_180",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": true,
+        "locked_coords": 0,
+        "bb_color": 8404597,
+        "verifier_type": "all",
+        "hash_code": "9b17aca2-1870-4bea-99df-b26f87d70aae",
+        "material_list": {
+          "type": "all",
+          "sort_criteria": "COUNT_TOTAL",
+          "sort_reverse": false,
+          "hide_available": false,
+          "multiplier": 1
+        },
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                79,
+                10,
+                25
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\Albert\\AppData\\Roaming\\.minecraft\\versions\\by.dddadian 1.21.11\\schematics\\20260825151055239-12w-3gt烧车刷花机带收集.litematic",
+        "name": "Unnamed",
+        "origin": [
+          -13609,
+          66,
+          -1300
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16152206,
+        "verifier_type": "all",
+        "hash_code": "f32049d3-57e3-4d19-bfbd-6def5dc3e6a3",
+        "material_list": {
+          "type": "all",
+          "sort_criteria": "COUNT_TOTAL",
+          "sort_reverse": false,
+          "hide_available": false,
+          "multiplier": 1
+        },
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "C:\\Users\\Albert\\AppData\\Roaming\\.minecraft\\versions\\by.dddadian 1.21.11\\schematics\\20260829185932222-单倍速大吸力中心对称分类打包机_by_tuzier.litematic",
+        "name": "Unnamed",
+        "origin": [
+          890,
+          190,
+          -3284
+        ],
+        "rotation": "COUNTERCLOCKWISE_90",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16738304,
+        "verifier_type": "render_layers",
+        "hash_code": "794d5154-5116-481f-a361-337d002759f7",
+        "material_list": {
+          "type": "all",
+          "sort_criteria": "COUNT_TOTAL",
+          "sort_reverse": false,
+          "hide_available": true,
+          "multiplier": 6
+        },
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 2,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "SCHEMATIC_PLACEMENT",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "follow_player": false,
+    "layer_single": -3285,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "player_follow_offset": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "11",
+    "current": "11",
+    "boxes": [
+      {
+        "pos1": [
+          848,
+          55,
+          -3328
+        ],
+        "pos2": [
+          927,
+          55,
+          -3250
+        ],
+        "name": "11"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  },
+  "block_entities": {}
+}

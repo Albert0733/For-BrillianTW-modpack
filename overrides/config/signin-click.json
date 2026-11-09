@@ -1,0 +1,15 @@
+{
+  "enabled": true,
+  "triggerCommand": "",
+  "replaceCommand": "signin click",
+  "feedback": true,
+  "autoSignin": true,
+  "signinTimes": [
+    "00:01",
+    "08:00",
+    "10:00"
+  ],
+  "timezone": "",
+  "dailyOnce": false,
+  "signOnJoin": true
+}
