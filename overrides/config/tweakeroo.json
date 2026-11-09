@@ -32,13 +32,13 @@
     "freeCameraPlayerInputs": {
       "enabled": false,
       "hotkey": {
-        "keys": ""
+        "keys": "MOUSE_FORWARD"
       }
     },
     "freeCameraPlayerMovement": {
       "enabled": false,
       "hotkey": {
-        "keys": ""
+        "keys": "MOUSE_BACK"
       }
     },
     "freeCameraShowHands": {
@@ -226,7 +226,7 @@
         "keys": ""
       }
     },
-    "translationLanguage": "zh_tw",
+    "translationLanguage": "zh_cn",
     "translationMode": "vanilla",
     "weaponSwapBetterEnchants": {
       "enabled": false,
@@ -973,8 +973,8 @@
     "tweakEmptyShulkerBoxesStack": false,
     "tweakExplosionReducedParticles": true,
     "tweakF3Cursor": false,
-    "tweakFakeSneaking": false,
-    "tweakFakeSneakPlacement": false,
+    "tweakFakeSneaking": true,
+    "tweakFakeSneakPlacement": true,
     "tweakFastBlockPlacement": false,
     "tweakFastLeftClick": false,
     "tweakFastRightClick": false,
@@ -1031,9 +1031,9 @@
     "tweakStructureBlockLimit": false,
     "tweakSwapAlmostBrokenTools": false,
     "tweakTabCompleteCoordinate": false,
-    "tweakToolSwitch": false,
+    "tweakToolSwitch": true,
     "tweakWaterVisibility": true,
-    "tweakWeaponSwitch": false,
+    "tweakWeaponSwitch": true,
     "tweakYMirror": false,
     "tweakZoom": true
   },

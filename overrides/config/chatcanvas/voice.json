@@ -1,9 +1,0 @@
-{
-  "enabled": true,
-  "microphoneId": "Port 麥克風 (2- fifine Microphone)\u001fUnknown Vendor\u001fPort Mixer\u001f1.0\u001f0",
-  "maximumSeconds": 15,
-  "showInputLevel": true,
-  "noiseThreshold": 0.015,
-  "showPartialResults": true,
-  "addFinalPunctuation": true
-}

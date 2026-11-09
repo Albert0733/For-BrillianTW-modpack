@@ -131,6 +131,12 @@
         "keys": ""
       }
     },
+    "enableCustomBlockBlockShapeBlackList": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "enableCustomBlockBlockInteractionShape": {
       "enabled": false,
       "hotkey": {
@@ -278,6 +284,12 @@
         "keys": ""
       }
     },
+    "disableClientLightUpdate": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "commandPm": {
       "enabled": false,
       "hotkey": {
@@ -306,7 +318,7 @@
       }
     },
     "optDirection": {
-      "enabled": false,
+      "enabled": true,
       "hotkey": {
         "keys": ""
       }
@@ -318,6 +330,12 @@
       }
     },
     "optScoreBoard": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "optEntityLight": {
       "enabled": false,
       "hotkey": {
         "keys": ""
@@ -329,10 +347,18 @@
         "keys": ""
       }
     },
+    "asyncLitematicaLoad": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "asyncLitematicaLoadThreadAmount": 12,
     "openFakeFetchGui": {
       "keys": ""
     },
     "fakeFetchSupport": false,
+    "fakeAutoRefresh": false,
     "middleClickLitematicBlockFetch": {
       "enabled": false,
       "hotkey": {

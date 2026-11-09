@@ -3,13 +3,13 @@
     "打印机占用时间": 4,
     "打印机工作间隔": 2,
     "打印机工作半径": 4,
-    "放置冷却": 4,
+    "放置冷却": 0,
     "半径模式": "sphere",
     "模式切换": "single",
     "打印机模式": "excavate",
     "渲染层数限制": false,
     "替换方块名单": [
-      "minecraft:water|minecraft:lava|minecraft:air \u003d\u003e minecraft:sand|minecraft:gravel|minecraft:grass_block|minecraft:dirt",
+      "minecraft:water|minecraft:lava \u003d\u003e minecraft:sand|minecraft:gravel",
       "//all\u003d\u003eminecraft:air"
     ],
     "基岩模式白名单": [
@@ -17,9 +17,9 @@
     ],
     "跳过放置": false,
     "跳过放置名单": [],
-    "侦测器放置检测": false,
-    "有序存放": false,
-    "精准放置": false,
+    "侦测器放置检测": true,
+    "有序存放": true,
+    "精准放置": true,
     "轻松放置模式": {
       "enabled": false,
       "hotkey": {
@@ -34,7 +34,7 @@
         "keys": ""
       }
     },
-    "破坏错误方块": "not",
+    "破坏错误方块": "errorBlock",
     "覆盖列表方块": true,
     "可覆盖方块": [
       "minecraft:snow",
@@ -45,13 +45,27 @@
     ],
     "原木去皮": false,
     "挖掘模式限制器": "me",
-    "挖掘模式限制": "whitelist",
+    "挖掘模式限制": "blacklist",
     "挖掘白名单": [
-      "minecraft:andesite"
+      ""
     ],
     "挖掘黑名单": [
-      "minecraft:grass_block",
-      "minecraft:dirt"
+      "minecraft:deepslate_diamond_ore",
+      "minecraft:diamond_ore",
+      "minecraft:deepslate_copper_ore",
+      "minecraft:copper_ore",
+      "minecraft:deepslate_emerald_ore",
+      "minecraft:emerald_ore",
+      "minecraft:deepslate_redstone_ore",
+      "minecraft:redstone_ore",
+      "minecraft:deepslate_gold_ore",
+      "minecraft:gold_ore",
+      "minecraft:deepslate_coal_ore",
+      "minecraft:coal_ore",
+      "minecraft:deepslate_iron_ore",
+      "minecraft:iron_ore",
+      "minecraft:deepslate_lapis_ore",
+      "minecraft:lapis_ore"
     ],
     "打开设置菜单": {
       "keys": "Z,Y"
@@ -70,6 +84,8 @@
     },
     "关闭全部模式": {
       "keys": "LEFT_CONTROL,G"
-    }
+    },
+    "": false,
+    "容器同步与打印机添加库存高亮颜色": "#4CFF4CE6"
   }
 }

@@ -1,0 +1,580 @@
+{
+  "ShownNoticeIds": [],
+  "Crafting": {
+    "enableWorkbenchQuickCraft": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "enableWorkbenchQuickCraftWithQuickShulker": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "workbenchQuickShulkerPipelineMode": "response_stable",
+    "enableWorkbenchQuickCraftOutputToShulker": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "enableBackpackQuickCraft": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "enableStonecutterQuickCraft": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "enableAnvilRenameQuickCraft": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "enableAnvilAssistant": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "anvilCreativeNoBooks": true,
+    "anvilPickaxePlan": "silk",
+    "showCraftActionButton": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "dropCraftResultsOnStop": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "retainOneCraftIngredient": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "craftsPerSecond": 50,
+    "anvilSword": [
+      "unbreaking\u003d3",
+      "mending\u003d1",
+      "sharpness\u003d5",
+      "looting\u003d3",
+      "sweeping_edge\u003d3"
+    ],
+    "anvilPickaxeSilk": [
+      "unbreaking\u003d3",
+      "mending\u003d1",
+      "efficiency\u003d5",
+      "silk_touch\u003d1"
+    ],
+    "anvilPickaxeFortune": [
+      "unbreaking\u003d3",
+      "mending\u003d1",
+      "efficiency\u003d5",
+      "fortune\u003d3"
+    ],
+    "anvilAxe": [
+      "unbreaking\u003d3",
+      "mending\u003d1",
+      "efficiency\u003d5",
+      "silk_touch\u003d1",
+      "sharpness\u003d5"
+    ],
+    "anvilShovel": [
+      "unbreaking\u003d3",
+      "mending\u003d1",
+      "efficiency\u003d5",
+      "silk_touch\u003d1"
+    ],
+    "anvilHoe": [
+      "unbreaking\u003d3",
+      "mending\u003d1",
+      "efficiency\u003d5",
+      "silk_touch\u003d1"
+    ],
+    "anvilHelmet": [
+      "unbreaking\u003d3",
+      "mending\u003d1",
+      "protection\u003d4",
+      "respiration\u003d3",
+      "aqua_affinity\u003d1"
+    ],
+    "anvilChestplate": [
+      "unbreaking\u003d3",
+      "mending\u003d1",
+      "protection\u003d4"
+    ],
+    "anvilLeggings": [
+      "unbreaking\u003d3",
+      "mending\u003d1",
+      "protection\u003d4",
+      "swift_sneak\u003d3"
+    ],
+    "anvilBoots": [
+      "unbreaking\u003d3",
+      "mending\u003d1",
+      "protection\u003d4",
+      "feather_falling\u003d4",
+      "depth_strider\u003d3",
+      "soul_speed\u003d3"
+    ],
+    "anvilElytra": [
+      "unbreaking\u003d3",
+      "mending\u003d1"
+    ],
+    "anvilBow": [
+      "unbreaking\u003d3",
+      "power\u003d5",
+      "punch\u003d2",
+      "flame\u003d1",
+      "infinity\u003d1"
+    ],
+    "anvilCrossbow": [
+      "unbreaking\u003d3",
+      "mending\u003d1",
+      "quick_charge\u003d3",
+      "multishot\u003d1"
+    ],
+    "anvilTrident": [
+      "unbreaking\u003d3",
+      "mending\u003d1",
+      "impaling\u003d5",
+      "loyalty\u003d3",
+      "channeling\u003d1"
+    ],
+    "anvilMace": [
+      "unbreaking\u003d3",
+      "mending\u003d1",
+      "density\u003d5",
+      "wind_burst\u003d3",
+      "fire_aspect\u003d2"
+    ],
+    "anvilFishingRod": [
+      "unbreaking\u003d3",
+      "mending\u003d1",
+      "luck_of_the_sea\u003d3",
+      "lure\u003d3"
+    ],
+    "anvilShield": [
+      "unbreaking\u003d3",
+      "mending\u003d1"
+    ],
+    "anvilShears": [
+      "unbreaking\u003d3",
+      "mending\u003d1",
+      "efficiency\u003d5"
+    ],
+    "anvilSpear": [
+      "unbreaking\u003d3",
+      "mending\u003d1",
+      "sharpness\u003d5",
+      "looting\u003d3",
+      "lunge\u003d3"
+    ]
+  },
+  "ContainerTools": {
+    "enableQuickTransfer": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "showMatchingTransferHighlight": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "matchingTransferHighlightColor": "#553F6FFF",
+    "enableScrollTransfer": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "quickTransferRetainOne": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "showQuickStashButton": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "enableQuickThrow": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "enableQuickTrade": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "quickTradeRightClick": true,
+    "enableContinuousTrade": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "enableFavoriteTrade": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "enableQuickSort": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "showQuickSortButton": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "quickSortTopPriorityItems": [
+      "Enchanted Elytra",
+      "Enchanted Diamond Helmet",
+      "Enchanted Diamond Chestplate",
+      "Enchanted Diamond Leggings",
+      "Enchanted Diamond Boots",
+      "Enchanted Diamond Sword",
+      "Enchanted Diamond Axe",
+      "Enchanted Diamond Pickaxe",
+      "Enchanted Diamond Shovel",
+      "Enchanted Diamond Hoe",
+      "Enchanted Netherite Helmet",
+      "Enchanted Netherite Chestplate",
+      "Enchanted Netherite Leggings",
+      "Enchanted Netherite Boots",
+      "Enchanted Netherite Sword",
+      "Enchanted Netherite Axe",
+      "Enchanted Netherite Pickaxe",
+      "Enchanted Netherite Shovel",
+      "Enchanted Netherite Hoe"
+    ],
+    "quickSortBottomPriorityItems": [],
+    "quickSortShulkerBoxesAtEnd": true,
+    "quickSortBundlesAtEnd": true,
+    "showContainerLockButton": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "showSlotLockOverlay": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "showContainerFillStatusOutlines": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "allowManualLockedSlotInteraction": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "enableContainerToolMode": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "containerToolMode": "quick_stash",
+    "enableCreativePacking": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "creativePackingBundleStacks": 1,
+    "allowCreativePackingNestedContainers": false,
+    "enableFreeCameraEnhancement": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "freeCameraBlockInteractions": true,
+    "freeCameraEntityInteractions": true,
+    "freeCameraEasyPlace": true,
+    "enableQuickBeacon": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "beaconEffectOrder": [
+      "急迫2",
+      "力量2",
+      "生命恢复1",
+      "跳跃提升2",
+      "迅捷2",
+      "抗性提升2"
+    ]
+  },
+  "ProjectionTools": {
+    "showLitematica3DPreview": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "autoDisableShadersFor3DPreview": false,
+    "allowAddingLitematicaPreviewImages": true,
+    "replaceLitematicaPreviewWith3D": true,
+    "enableAutoCollectMaterials": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "materialCollectExtra0To10": 0,
+    "materialCollectExtra10To20": 1,
+    "materialCollectExtra20To50": 3,
+    "materialCollectExtra50To100": 5,
+    "materialCollectExtra100To500": 10,
+    "materialCollectExtraOver500": 32,
+    "enableLitematicaContainerAutofill": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "enableCreativeContainerFill": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "enableContainerFillOverflowDrop": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "containerFillFreeSlotsLimit": 5,
+    "containerFillProtectedItems": [
+      "金胡萝卜",
+      "烟花火箭"
+    ],
+    "containerFillReplacements": [],
+    "projectionMaterialReplacements": [],
+    "enableLitematicaShulkerMaterialRestock": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "litematicaShulkerMaterialOrderlyStorage": false,
+    "allowEasyPlaceOpenContainers": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "allowEasyPlaceIceOverSourceWater": true,
+    "allowEasyPlaceInteractionScreens": true,
+    "allowEasyPlaceRedstoneInteractions": true,
+    "allowEasyPlaceFunctionalBlockInteractions": true,
+    "allowEasyPlaceFluidInteractions": true,
+    "allowEasyPlaceToolInteractions": true,
+    "allowEasyPlaceDecorationInteractions": true,
+    "allowEasyPlaceSurvivalInteractions": true,
+    "allowEasyPlaceSpecialInteractions": true,
+    "allowEasyPlaceDangerousInteractions": false,
+    "allowEasyPlaceAdminInteractions": false,
+    "holdEasyPlace": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "enableEasyPlaceEntities": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "allowCreativeEntityPlacement": true,
+    "requireEasyPlaceEntityPassengerMaterials": true,
+    "requireEasyPlaceEntityContainerContentMaterials": false,
+    "holdEasyPlaceCacheTimeMs": 500,
+    "showLitematicaSchematicFolderButton": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "showLitematicaContainerMaterialButton": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "enableLitematicaListPagination": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "showLitematicaEntityMaterialButton": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "showLitematicaContainerSlotHints": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "showLitematicaContainerVerifier": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "showLitematicaMaterialReplacements": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "highlightNonemptyProjectionContainers": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "projectionContainerHighlightColor": "#FFB36BFF",
+    "globalContainerReplacements": [],
+    "globalProjectionMaterialReplacements": [],
+    "persistProjectionFeatures": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "allowPersistentMaterialIgnores": false,
+    "allowPersistentVerifierIgnores": false,
+    "persistSchematicVerifier": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "includeEnderChestInMaterialHud": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "enableLitematicaAreaClone": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    }
+  },
+  "ModSupport": {
+    "enableQuickShulker": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "quickShulkerActionIntervalTicks": 5,
+    "checkUpdateNotices": true
+  },
+  "Hotkeys": {
+    "enableOpenConfigHotkey": true,
+    "enableActionButtonDragging": false,
+    "openConfigHotkey": {
+      "keys": "O"
+    },
+    "openLitematicaArea3DPreviewHotkey": {
+      "keys": "LEFT_CONTROL,P"
+    },
+    "cloneLitematicaAreaHotkey": {
+      "keys": "LEFT_CONTROL,C"
+    },
+    "openEasyPlaceEntitySelectorHotkey": {
+      "keys": "LEFT_ALT,E"
+    },
+    "singleCraftHotkey": {
+      "keys": "V"
+    },
+    "anvilBuildHotkey": {
+      "keys": ""
+    },
+    "rapidCraftHotkey": {
+      "keys": "LEFT_ALT,C"
+    },
+    "quickSortHotkey": {
+      "keys": "R"
+    },
+    "dropMatchingHotkey": {
+      "keys": "LEFT_CONTROL,Q"
+    },
+    "dropWholeStackHotkey": {
+      "keys": "LEFT_SHIFT,Q"
+    },
+    "quickTransferHotkey": {
+      "keys": "LEFT_ALT,MOUSE_LEFT"
+    },
+    "quickTransferRetainOneHotkey": {
+      "keys": "LEFT_SHIFT,MOUSE_RIGHT"
+    },
+    "slotQuickTransferHotkey": {
+      "keys": "LEFT_SHIFT,MOUSE_LEFT"
+    },
+    "slotLockHotkey": {
+      "keys": "LEFT_ALT,MOUSE_RIGHT"
+    },
+    "copyContainerTemplateHotkey": {
+      "keys": "MOUSE_MIDDLE"
+    },
+    "continuousContainerFillHotkey": {
+      "keys": "MOUSE_RIGHT"
+    },
+    "toggleContainerToolModeHotkey": {
+      "keys": "LEFT_CONTROL,F"
+    },
+    "creativePackingHotkey": {
+      "keys": "LEFT_CONTROL,G"
+    }
+  },
+  "ButtonPositions": {},
+  "Migrations": {
+    "ipnButtonDefaultsV1": true,
+    "anvilPresetDefaultsV2": true
+  }
+}

@@ -1,8 +1,0 @@
-{
-  "enabled": true,
-  "saveSelfMessages": true,
-  "saveOtherPlayersMessages": true,
-  "saveCommandSystemMessages": false,
-  "retentionDays": 30,
-  "maxFileSizeBytes": 10485760
-}

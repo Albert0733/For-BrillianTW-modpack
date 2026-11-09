@@ -35,7 +35,7 @@
       "keys": "A,C"
     },
     "realmsCommonConfig": true,
-    "translationLanguage": "zh_tw",
+    "translationLanguage": "zh_cn",
     "translationMode": "vanilla",
     "translationOverrides": {
       "enabled": false,

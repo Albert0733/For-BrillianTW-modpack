@@ -13,7 +13,7 @@
     "schematicOverlayColorWrongState": "#4CFF9010"
   },
   "Generic": {
-    "placementManagerThreadCount": 2,
+    "placementManagerThreadCount": 3,
     "areaSelectionsPerWorld": true,
     "changeSelectedCornerOnMove": true,
     "cloneAtOriginalPosition": false,
@@ -99,10 +99,10 @@
     "commandTaskInterval": 1,
     "customSchematicBaseDirectory": "C:\\Users\\Albert\\AppData\\Roaming\\.minecraft\\versions\\For Brillian\\schematics",
     "easyPlaceSwapInterval": 0,
-    "pickBlockableSlots": "1,2,3,4,5",
+    "pickBlockableSlots": "6,7,8,9",
     "toolItem": "minecraft:iron_nugget",
     "toolItemComponents": "empty",
-    "translationLanguage": "zh_tw",
+    "translationLanguage": "zh_cn",
     "translationMode": "vanilla"
   },
   "Hotkeys": {
@@ -122,7 +122,7 @@
       "keys": ""
     },
     "easyPlaceToggle": {
-      "keys": "MOUSE_FORWARD"
+      "keys": "L,TAB"
     },
     "executeOperation": {
       "keys": "L,RETURN"
@@ -308,7 +308,7 @@
       "keys": ""
     },
     "toggleSchematicRendering": {
-      "keys": "MOUSE_BACK"
+      "keys": "L,G"
     },
     "toggleSignTextPaste": {
       "keys": ""
@@ -343,11 +343,11 @@
   },
   "InfoOverlays": {
     "defaultSelectionMode": "simple",
-    "blockInfoLinesEnabled": true,
-    "blockInfoOverlayEnabled": true,
+    "blockInfoLinesEnabled": false,
+    "blockInfoOverlayEnabled": false,
     "infoOverlaysTargetFluids": false,
     "statusInfoHud": false,
-    "statusInfoHudAuto": true,
+    "statusInfoHudAuto": false,
     "verifierOverlayEnabled": true,
     "warnDisabledRendering": true,
     "blockInfoLinesAlignment": "top_right",
@@ -378,7 +378,7 @@
       }
     },
     "enableSchematicRendering": {
-      "enabled": false,
+      "enabled": true,
       "hotkey": {
         "keys": ""
       }

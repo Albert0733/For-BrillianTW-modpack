@@ -3,9 +3,9 @@
     {
       "id": "f6e8a35c-12b1-4a4d-928d-6250b7a994b5",
       "name": "上次死亡點",
-      "x": -5973,
-      "y": 61,
-      "z": 15339,
+      "x": -11615,
+      "y": 74,
+      "z": -5518,
       "color": 0,
       "visible": true,
       "death": true
@@ -35,9 +35,9 @@
     {
       "id": "a4e089cd-4103-425e-a605-92702d11fe81",
       "name": "上次死亡點",
-      "x": 3339,
-      "y": 86,
-      "z": 12798,
+      "x": -5973,
+      "y": 61,
+      "z": 15339,
       "color": 0,
       "visible": true,
       "death": true
@@ -72,9 +72,21 @@
     {
       "id": "69dad25b-e2e9-4d5a-8cba-317eccabb27b",
       "name": "上次死亡點",
-      "x": 20432,
-      "y": -15,
-      "z": -18854,
+      "x": 601,
+      "y": 67,
+      "z": -16384,
+      "color": 0,
+      "visible": true,
+      "death": true
+    }
+  ],
+  "server_s3.brilliantw.net|minecraft:overworld": [
+    {
+      "id": "34ccbe1a-8c72-4fb5-a4db-d9b1caa89956",
+      "name": "上次死亡點",
+      "x": -11615,
+      "y": 74,
+      "z": -5518,
       "color": 0,
       "visible": true,
       "death": true

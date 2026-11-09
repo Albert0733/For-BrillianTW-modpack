@@ -137,8 +137,8 @@
     "moon": true,
     "stars": true,
     "rain_snow": true,
-    "biome_colors": true,
-    "sky_colors": true
+    "biome_colors": false,
+    "sky_colors": false
   },
   "render_settings": {
     "fog_settings": {

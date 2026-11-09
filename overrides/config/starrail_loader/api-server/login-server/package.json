@@ -1,7 +1,0 @@
-{
-  "name": "netease-login-server",
-  "version": "1.0.0",
-  "description": "网易云音乐 weapi 登录辅助服务器（纯 Node.js 内置模块，无外部依赖）",
-  "main": "server.js",
-  "private": true
-}

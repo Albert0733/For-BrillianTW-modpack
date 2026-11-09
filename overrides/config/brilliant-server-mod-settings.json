@@ -6,9 +6,13 @@
   "privateWindow": true,
   "emoji": true,
   "emojiTone": 0,
+  "emojiRecent": {
+    ":m3_meow:": 1
+  },
   "imageLinks": true,
   "aliases": true,
   "recipeFix": true,
+  "shulkerPreview": true,
   "slotNumbers": true,
   "scoreboardLayout": true,
   "anvilCost": true,
@@ -33,7 +37,7 @@
   "minimap": false,
   "minimapRotate": false,
   "minimapCircle": false,
-  "minimapMobs": false,
+  "minimapMobs": true,
   "minimapPlayers": true,
   "minimapCoords": true,
   "minimapWaypoints": true,

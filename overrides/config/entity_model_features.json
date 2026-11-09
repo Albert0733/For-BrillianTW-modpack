@@ -1,5 +1,5 @@
 {
-  "allowedCEM": "ALL",
+  "allowedCEM": "OFF",
   "logModelCreationData": false,
   "debugOnRightClick": false,
   "renderModeChoice": "NORMAL",
