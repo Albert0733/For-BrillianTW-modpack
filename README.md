@@ -81,7 +81,7 @@
 
 ## 📋 安裝說明
 
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/aabaeee9-c810-4ffe-85db-fb05b8827758" /> 適用PCL
+- 適用 PCL、HMCL
 1. 下載整合包檔案
 2. 將整合包拖入 `PCL` 啟動器
 3. 使用啟動器選取 `by.dddadian01 26.3` 實例並啟動
