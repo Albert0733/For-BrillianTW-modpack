@@ -33,6 +33,7 @@
 - reeses-sodium-options
 - sodium
 - sodium-extra
+- Language Reload
 
 ### 🧰 便捷功能
 
