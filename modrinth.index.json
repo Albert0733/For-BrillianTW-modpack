@@ -1,9 +1,9 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.1.0",
+  "versionId": "1.1.1",
   "name": "by.dddadian 26.3",
-  "summary": "\u9069\u7528\u65BC\u3010\u8F1D\u714C\u3011\u4F3A\u670D\u5668\u7684\u6574\u5408\u5305",
+  "summary": "適用於【輝煌】伺服器的整合包",
   "files": [
     {
       "path": "mods/ambient_camera-fabric-26.3-1.1.0.jar",
@@ -77,7 +77,7 @@
       "fileSize": 1135009
     },
     {
-      "path": "mods/continuity-3.0.1\u002B26.3.jar",
+      "path": "mods/continuity-3.0.1+26.3.jar",
       "hashes": {
         "sha1": "63d51781b2c87e3b4b4ca98a133db8c98d3f2afb",
         "sha512": "1ec1e3b2f73c26b19445d664822a8936e9076f4d8855a2ed5fac19786daa8da42da8fdc9526c4a53c227a82819a87ad8e73d5b4fc003f6519c50454c33014f04"
@@ -113,7 +113,7 @@
       "fileSize": 21023
     },
     {
-      "path": "mods/dynamic-fps-3.11.10\u002Bminecraft-26.3.0-fabric.jar",
+      "path": "mods/dynamic-fps-3.11.10+minecraft-26.3.0-fabric.jar",
       "hashes": {
         "sha1": "a4860c9480f0ce1a468e1e4c254214b1f97e19b3",
         "sha512": "7976d11411babfa3ac0c38898f26ee6192f22a4f595b637eeae3cc5185f326c0e4b9fd7d00b3d7e8d020dd861295f0df52f9a9d7c67e88946d0ba9fff4a9f894"
@@ -160,7 +160,7 @@
       "fileSize": 798322
     },
     {
-      "path": "mods/fabric-api-0.165.2\u002B26.3.jar",
+      "path": "mods/fabric-api-0.165.2+26.3.jar",
       "hashes": {
         "sha1": "2e364989e3f6efb97e1dbd12d80d835c7ab8c26c",
         "sha512": "21ce87863ed73c4c871e072f13c5a7b00bd148a098c5064a5f381479d1ddd7c54b0f40ef7d17ce2ae5712deb647c5fcaf12cb72fb663fe8d958188e870b33de0"
@@ -172,7 +172,7 @@
       "fileSize": 1779306
     },
     {
-      "path": "mods/fabric-carpet-26.3\u002Bv260915.jar",
+      "path": "mods/fabric-carpet-26.3+v260915.jar",
       "hashes": {
         "sha1": "564c46b80e3a98430f0265b0485833f335d94a8d",
         "sha512": "7a479ba69eb5049cb94365d5044bd58c9f970c50b3484861fe3675f1917f7c99c1b1f50a5e01bdd9ded940d76a995539009a3656e05be2f513f20ec14de991a7"
@@ -184,7 +184,7 @@
       "fileSize": 1541420
     },
     {
-      "path": "mods/fabric-language-kotlin-1.14.2\u002Bkotlin.2.4.21.jar",
+      "path": "mods/fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
       "hashes": {
         "sha1": "f1d4ab6ecd54d9782521333a87eb50724ecb03e0",
         "sha512": "7fb475c4a7e7bdf8d0aca4b5798a58a354c51443d5b1fbde3e8cf34dfbf7191ef4238b5f07d08ec9490ec180b371624523326c3ad45d4ed2b2be541de9407e5d"
@@ -196,7 +196,7 @@
       "fileSize": 8142878
     },
     {
-      "path": "mods/fastquit-3.1.5\u002Bmc26.2.jar",
+      "path": "mods/fastquit-3.1.5+mc26.2.jar",
       "hashes": {
         "sha1": "0977eb0a35e1a1602bc9306ddbbb9177734131f0",
         "sha512": "cb6e3547e3fd3c6df75cfa8bf948ded35e4ed7ccb81c401184c4f02c4b0694a141c673b238605e8719b4b48d2ba90616a3b921344cde2d68b58da3e33edca477"
@@ -243,7 +243,7 @@
       "fileSize": 609574
     },
     {
-      "path": "mods/Gamma-Utils-Fabric-3.2.2\u002Bmc26.3.jar",
+      "path": "mods/Gamma-Utils-Fabric-3.2.2+mc26.3.jar",
       "hashes": {
         "sha1": "98c1ca5bfd1ec3b2ab992323bd3f8fd957b4066d",
         "sha512": "6cc6029537b7741af1c7b36a9f44e22bf379c4851c4d44918acc24d2d74009d4739eb1a1296078ac2b8d3d9430083b9452a168059d3ca090394656adbad02575"
@@ -255,7 +255,7 @@
       "fileSize": 103107
     },
     {
-      "path": "mods/gugle-carpet-addition-v2.12.10\u002Bbuild.105.jar",
+      "path": "mods/gugle-carpet-addition-v2.12.10+build.105.jar",
       "hashes": {
         "sha1": "e06bbbde9ac98b435201d95616ed0dc2dc622ea4",
         "sha512": "d978b6bd634a39245e1f86ee6fc50907680a51f5c44bd5f49287e037df06040bd93016104d630eb45205979abe04f3cea109e08fe99f99476cc7922c74871a72"
@@ -266,7 +266,7 @@
       "fileSize": 5732431
     },
     {
-      "path": "mods/ImmediatelyFast-Fabric-1.17.1\u002B26.3.jar",
+      "path": "mods/ImmediatelyFast-Fabric-1.17.1+26.3.jar",
       "hashes": {
         "sha1": "f565bbeb201f2305e81761429d3f1f47e1c3a321",
         "sha512": "8e139589fd995bce3d485a34d92a07243964212f7ed2e4fc2f6de5b9a74d0f59b03252e7ce40c64e006cf3e21bed5de27b830d33ef048b286e041f6178ad8428"
@@ -290,7 +290,7 @@
       "fileSize": 240651
     },
     {
-      "path": "mods/InventoryProfilesNext-fabric-26.3-2.3.8.jar.disabled",
+      "path": "mods/InventoryProfilesNext-fabric-26.3-2.3.8.jar",
       "hashes": {
         "sha1": "2e0c90e7a1e7aab6cd6d65349f55b69f79995a9e",
         "sha512": "dbd7d0eeb71108f5d784dfe7aad6f0e774893491a8b571f9886df9fbed01803abbb63c1ea88765aa08a838044885cc1aef85c5d85a94c8945120f2f973c0ecad"
@@ -302,7 +302,7 @@
       "fileSize": 1485260
     },
     {
-      "path": "mods/iris-fabric-1.11.7\u002Bmc26.3.jar",
+      "path": "mods/iris-fabric-1.11.7+mc26.3.jar",
       "hashes": {
         "sha1": "fa03640ba1e4ef2f7ae3619c6373a06e46d0ba2c",
         "sha512": "d8d3312f77fc52a48e4a6cd836fda33669bdebcb4de0b8c0d30adc808b287330a533e0baef355cc1ce6336a26851d9775369a802a4666b7b7a6266af20088f42"
@@ -338,7 +338,7 @@
       "fileSize": 2410982
     },
     {
-      "path": "mods/lambdynamiclights-4.13.0\u002B26.3.jar",
+      "path": "mods/lambdynamiclights-4.13.0+26.3.jar",
       "hashes": {
         "sha1": "18c8ab40f03219bfcf809a83db6e3958ed8bb866",
         "sha512": "67c37ca7d619bd7f2b0dc02217070c20e34fb3bb3363d4e23f5ef9ca90b1b58adb223fab73639a3499d366497316f1eb297d2759f3ffb976467b4759f784619d"
@@ -348,6 +348,18 @@
         "https://edge.forgecdn.net/files/8890/400/lambdynamiclights-4.13.0%2b26.3.jar"
       ],
       "fileSize": 1345715
+    },
+    {
+      "path": "mods/language-reload-1.7.8+26.3.jar",
+      "hashes": {
+        "sha1": "e6fd2df83d1d3d0f352a7e45eaf76f4551c136f2",
+        "sha512": "6366596875e9fa33b6b8119d08e5c18f3514662e319a735cedc8addb00bff4cf3179f3a33533b2070c1ddd776f23e6a5f22b69d0da0589f3091f0db9eead1d43"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/uLbm7CG6/versions/QVn4cccd/language-reload-1.7.8%2B26.3.jar",
+        "https://edge.forgecdn.net/files/9053/230/language-reload-1.7.8%2b26.3.jar"
+      ],
+      "fileSize": 79325
     },
     {
       "path": "mods/libIPN-fabric-26.3-6.9.0.jar",
@@ -373,7 +385,7 @@
       "fileSize": 1972556
     },
     {
-      "path": "mods/lithium-fabric-0.26.3\u002Bmc26.3.jar",
+      "path": "mods/lithium-fabric-0.26.3+mc26.3.jar",
       "hashes": {
         "sha1": "2d3afe9d43bb2549e23479d8d93e644ff366bebf",
         "sha512": "2ca92fb530135d2baddf0ba4cc4f93976234876a38c4aa02b487b2552400f005afcfbeebf5373fb4396fe2020537a42d7597b8da5a52b904355ef51d5fef07ad"
@@ -469,7 +481,7 @@
       "fileSize": 74569
     },
     {
-      "path": "mods/placeholder-api-3.2.0\u002B26.3.jar",
+      "path": "mods/placeholder-api-3.2.0+26.3.jar",
       "hashes": {
         "sha1": "4c455faa6333dbaef72cedbb91fe4a2a03176741",
         "sha512": "eb2bb31e51068aad2581b7864ea7b11b1209ba1c2b27551cd5837d9b312b818b73bb47c06374b46b99b73401c62c6b6c115f702c55aed6afd467ad8ad6448de4"
@@ -503,7 +515,7 @@
       "fileSize": 2858616
     },
     {
-      "path": "mods/schematicpreview-0.0.17\u002B26.3.jar",
+      "path": "mods/schematicpreview-0.0.17+26.3.jar.disabled",
       "hashes": {
         "sha1": "51beca6fc86093165da668ba6f85e31c828cf4fc",
         "sha512": "11122542f319cc13efabbeffbe8e99b8f8e4fd93035f64fa218125c473a50bbc1991fb54a9c50d17c93bf83214767e613a2a9d324e5d3be6556a595ae32171ec"
@@ -527,7 +539,7 @@
       "fileSize": 79857
     },
     {
-      "path": "mods/shulkerboxtooltip-fabric-5.4.3\u002B26.3.jar",
+      "path": "mods/shulkerboxtooltip-fabric-5.4.3+26.3.jar",
       "hashes": {
         "sha1": "e81054001c0899e5c0689418f4272977fe6b0bf6",
         "sha512": "e5c5dc22e1a7eb386a3e3499ad1ea0571f9992554d4bb023dc12b3a989e2389b65d4be337199ca842b6d194801f2340bcd976007eb4ab7440a3bdec4a0fbabf3"
@@ -539,7 +551,7 @@
       "fileSize": 424841
     },
     {
-      "path": "mods/sodium-fabric-0.9.2\u002Bmc26.3.jar",
+      "path": "mods/sodium-fabric-0.9.2+mc26.3.jar",
       "hashes": {
         "sha1": "9acfe851e36f4fb27d7c5baa224e8bd4e0334283",
         "sha512": "f3f260f204b8ce5e8777c2c73f537956755ec61f3817b0b78b5e5568e8aa40f14891f146475075109747665c7c88a45ca0ca9a8df3c68d79c58ecdaa8d8c4b93"
@@ -587,7 +599,7 @@
       "fileSize": 5166790
     },
     {
-      "path": "mods/WorldEditCUI-26.3\u002B01.jar",
+      "path": "mods/WorldEditCUI-26.3+01.jar",
       "hashes": {
         "sha1": "5c80b582b99d301167bacbc73e34be1f20ff2ff8",
         "sha512": "272ef89aa332b2d7b91520c3eeb4990bcd02c80474a9c52943ba500b56327c549e31a4e11e85b6c2a03e3dbe224288b851347460df1b44d6b95bceab036cec10"
@@ -611,7 +623,7 @@
       "fileSize": 137347
     },
     {
-      "path": "mods/yet_another_config_lib_v3-3.9.7\u002B26.3-fabric.jar",
+      "path": "mods/yet_another_config_lib_v3-3.9.7+26.3-fabric.jar",
       "hashes": {
         "sha1": "e54d86dd4a78f95cd6ec0309d96fae01e661c00d",
         "sha512": "f3957028dd31cae78f08aee3e768f61bd12c4c8423257d357bc3c1a2172047c769d37901f99775c7ffff1e5ee794025dc72738b2869cab06f1c2811841d68b24"
@@ -623,7 +635,7 @@
       "fileSize": 1125377
     },
     {
-      "path": "resourcepacks/CozyUI\u002B_v1.11_no-fonts.zip",
+      "path": "resourcepacks/CozyUI+_v1.11_no-fonts.zip",
       "hashes": {
         "sha1": "3f890594b4dba9c6493f3739a4969dd2cfc51d70",
         "sha512": "fc9edbbb71576ab76f5222abda563095fa95179db9150b77858e17e280822056da056f8112e8f36d06505933b00624d0bb9a7593729f961e177f92ceb8a310a7"
@@ -646,7 +658,7 @@
       "fileSize": 1406832
     },
     {
-      "path": "resourcepacks/\u00A7cCozyUI\u00A7b\u002B \u00A77v1.10 \u00A70.zip",
+      "path": "resourcepacks/§cCozyUI§b+ §7v1.10 §0.zip",
       "hashes": {
         "sha1": "f2d3ec590d99a2706ce08bf73bea35df98836591",
         "sha512": "f316bec7d4410bc36b5802f4396799a74ecddce12a4175cfa20f12f64054ba330804f790a6cf7cd294a77f25988b3cd0bad1a59423413e1dd998f4008d9d14bb"
@@ -657,7 +669,7 @@
       "fileSize": 41002293
     },
     {
-      "path": "mods/autoreconnectrf-fabric-3.104.0\u002B26.3.jar",
+      "path": "mods/autoreconnectrf-fabric-3.104.0+26.3.jar",
       "hashes": {
         "sha1": "6a9138be2ef2812d83faddda91615ae5146d2094",
         "sha512": "e5305043ade9a87fca0e0230ca589713b3515c871018bc166a8c6ae3e8b30c85884bcf36feeb0ca8f443a59765a8a0f0a97a749d18dac4da40fbdafccafae414"

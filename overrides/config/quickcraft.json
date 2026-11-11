@@ -241,7 +241,7 @@
       }
     },
     "enableQuickSort": {
-      "enabled": true,
+      "enabled": false,
       "hotkey": {
         "keys": ""
       }
@@ -483,8 +483,8 @@
         "keys": ""
       }
     },
-    "allowPersistentMaterialIgnores": false,
-    "allowPersistentVerifierIgnores": false,
+    "allowPersistentMaterialIgnores": true,
+    "allowPersistentVerifierIgnores": true,
     "persistSchematicVerifier": {
       "enabled": true,
       "hotkey": {

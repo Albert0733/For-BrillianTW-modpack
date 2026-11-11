@@ -226,7 +226,7 @@
         "keys": ""
       }
     },
-    "translationLanguage": "zh_cn",
+    "translationLanguage": "zh_tw",
     "translationMode": "vanilla",
     "weaponSwapBetterEnchants": {
       "enabled": false,
@@ -974,7 +974,7 @@
     "tweakExplosionReducedParticles": true,
     "tweakF3Cursor": false,
     "tweakFakeSneaking": true,
-    "tweakFakeSneakPlacement": true,
+    "tweakFakeSneakPlacement": false,
     "tweakFastBlockPlacement": false,
     "tweakFastLeftClick": false,
     "tweakFastRightClick": false,
